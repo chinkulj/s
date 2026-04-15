@@ -1,5 +1,6 @@
 {
   "m3u_playlists": [
-    "https://raw.githubusercontent.com/pk0979/m3u-live/refs/heads/main/all.m3u"
+    "https://raw.githubusercontent.com/pk0979/m3u-live/refs/heads/main/all.m3u",
+    "https://raw.githubusercontent.com/FunctionError/PiratesTv/refs/heads/main/combined_playlist.m3u"
   ]
 }
